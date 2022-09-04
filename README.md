@@ -1,1 +1,1 @@
-# jujutsu-kaisen
+# Jujutsu Kaisen
