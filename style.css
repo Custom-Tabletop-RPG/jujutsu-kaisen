@@ -1,0 +1,15 @@
+.small-image {
+  min-width: 25%;
+  max-width: 50%;
+  width: 200px;
+}
+
+.small-image.right {
+  float: right;
+  margin-left: 1em;
+}
+
+.small-image.left {
+  float: left;
+  margin-right: 1em;
+}
