@@ -2,16 +2,16 @@
 
 ## Tags
 
-Die Beschreibung deines Charakters basiert auf Tags. Wiedersprüchliche Tags können nicht kombiniert werden. Diese Tags beeinflussen größtenteils das Rollenspiel. Wenige Tags beeinflussen Spielmechaniken.
+Die Beschreibung deines Charakters basiert auf Tags. Widersprüchliche Tags können nicht kombiniert werden. Diese Tags beeinflussen größtenteils das Rollenspiel. Wenige Tags beeinflussen Spielmechaniken.
 
-### Vorraussetzungen
+### Voraussetzungen
 
-Wärend der Charaktererstellung wirst du auf Vorraussetzungen stoßen. Zum Beispiel hat die [Fluchtechnik](#fluchtechniken) [Fluchrede](#fluchrede) die Vorraussetzung `Inumaki`, diesen Tag bekommst du, wenn du dem [Inumaki Klan](#inumaki) angehörst.
+Während der Charaktererstellung wirst du auf Voraussetzungen stoßen. Zum Beispiel hat die [Fluchtechnik](#fluchtechniken) [Fluchrede](#fluchrede) die Voraussetzung `Inumaki`, diesen Tag bekommst du, wenn du dem [Inumaki Klan](#inumaki) angehörst.
 
 ## Charaktererstellung
 
 1. Wähle einen **Klan**.
-   Dieser bestimmt auch einen Großteil deiner Vergangenheit wenn du dich für eine der drei großen Klans (Gojo, Kamo und Zenin) entscheidest.
+   Dieser bestimmt auch einen Großteil deiner Vergangenheit, wenn du dich für eine der drei großen Klans (Gojo, Kamo und Zenin) entscheidest.
 1. Passe deinen **Hintergrund** an.
    Gebunden an das, was dein Klan dir vorgibt, kannst du deinen Hintergrund frei wählen.
 
@@ -27,13 +27,13 @@ Die Gojo-Familie stammt von Michizane Sugawara ab, einem legendären Jujuzisten 
 
 Tags: `Inumaki`
 
-Die Familie Inumaki ist eine von vielen kleineren Jujuzisten-Familien. Obwohl sie nicht als großer Clan gelten, ist die vererbte Technik der Inumaki, die Fluchrede, sehr angesehen. Man erkennt sie am Siegel der Inumaki-Familie, den "Schlangenaugen und Reißzähnen", die um den Mund eines Anwenders der Fluchrede entstehen.
+Die Familie Inumaki ist eine von vielen kleineren Jujuzisten-Familien. Obwohl sie nicht als großer Klan gelten, ist die vererbte Technik der Inumaki, die Fluchrede, sehr angesehen. Man erkennt sie am Siegel der Inumaki-Familie, den "Schlangenaugen und Reißzähnen", die um den Mund eines Anwenders der Fluchrede entstehen.
 
 ### Kamo
 
 Tags: `Kamo`, `Gosanke`
 
-Die Kamo-Familie schätzt Blutsbande unermesslich, aber wie bei der Zenin-Familie hat die Weitergabe der überlieferten Technik oberste Priorität. Noritoshi Kamo wurde als Sohn einer Mätresse geboren, die misshandelt und von keinem Mitglied der Familie akzeptiert wurde. Dennoch wurde Noritoshi mit der vererbten Technik der Familie geboren: Blutmanipulation. Eine Fähigkeit, die für ihr allgemeines Gleichgewicht gepriesen wird und die perfekt für Menschen geeignet ist, die Blut schätzen. Die eigentliche Frau des Familienoberhaupts konnte keinen Sohn gebären, der diese Technik geerbt hätte, und so wurde Noritoshi als Erbe ausgewählt. Um seine Mutter zu schützen, fühlt sich Noritoshi gezwungen, sich so zu verhalten, wie es dem Clan angemessen ist.
+Die Kamo-Familie schätzt Blutsbande unermesslich, aber wie bei der Zenin-Familie hat die Weitergabe der überlieferten Technik oberste Priorität. Noritoshi Kamo wurde als Sohn einer Mätresse geboren, die misshandelt und von keinem Mitglied der Familie akzeptiert wurde. Dennoch wurde Noritoshi mit der vererbten Technik der Familie geboren: Blutmanipulation. Eine Fähigkeit, die für ihr allgemeines Gleichgewicht gepriesen wird und die perfekt für Menschen geeignet ist, die Blut schätzen. Die eigentliche Frau des Familienoberhaupts konnte keinen Sohn gebären, der diese Technik geerbt hätte, und so wurde Noritoshi als Erbe ausgewählt. Um seine Mutter zu schützen, fühlt sich Noritoshi gezwungen, sich so zu verhalten, wie es dem Klan angemessen ist.
 
 Die Kamo-Familie ist auch für das größte Übel der Großen Drei Jujuzisten-Familien verantwortlich. Noritoshi Kamo, der als der böseste Jujuzist der Geschichte gilt, führte in einer vergangenen Ära Experimente an Menschen und verfluchten Geistern durch, die im Wesentlichen zu dem verfluchten Schoß führten: Death Paintings. Sein eigenes Blut wurde der gemischten DNA der ursprünglichen Eltern der Death Paintings zugefügt. Als die Nummern 1 bis 3 inkarniert waren, besaßen sie die angeborenen Techniken, die sich um die Verwendung ihres eigenen Blutes drehten. Insbesondere Choso hat die Blutmanipulation selbst geerbt und ist ihr im Vergleich zu Noritoshi, dem Schüler, überlegen.
 
@@ -41,17 +41,17 @@ Die Kamo-Familie ist auch für das größte Übel der Großen Drei Jujuzisten-Fa
 
 Tags: `Zenin`, `Gosanke`
 
-Die Familie Zenin verkörpert alle edlen Werte eines großen Clans. Sie glauben, dass mächtige Fluchtechniken wichtiger sind als alles andere und sind sogar bereit, Mitglieder der Familie auszustoßen, wenn sie diese nicht besitzen. Die problematischen Ideale des Clans wurden von Naobito Zenin, dem Oberhaupt der Familie für einige Zeit vor dem Ende des Jahres 2018, aufrechterhalten. Er pflegte ein schlechtes Verhältnis zur Gojo-Familie und grenzte Maki und Mai offen aus, weil sie als weibliche Jujuzisten nicht stark genug waren.
+Die Familie Zenin verkörpert alle edlen Werte eines großen Klans. Sie glauben, dass mächtige Fluchtechniken wichtiger sind als alles andere und sind sogar bereit, Mitglieder der Familie auszustoßen, wenn sie diese nicht besitzen. Die problematischen Ideale des Klans wurden von Naobito Zenin, dem Oberhaupt der Familie für einige Zeit vor dem Ende des Jahres 2018, aufrechterhalten. Er pflegte ein schlechtes Verhältnis zur Gojo-Familie und grenzte Maki und Mai offen aus, weil sie als weibliche Jujuzisten nicht stark genug waren.
 
-### Custom Klan
+### Andere Klans
 
 Wähle einen beliebigen Familien- / Klannamen, der nicht einem der oben genannten entspricht.
 
 ## Fluchtechniken
 
-Jeder Jujuzist verfügt über eine Fluchtechnik. Eine Fluchtechnik kann von einem Klan vererbt werden, danebeen gibt es Fluchtechniken, die keine weiteren Vorraussetzungen haben.
+Jeder Jujuzist verfügt über eine Fluchtechnik. Eine Fluchtechnik kann von einem Klan vererbt werden, daneben gibt es Fluchtechniken, die keine weiteren Voraussetzungen haben.
 
-Zusätzlich zur Fluchtechnik können Fähigkeiten erlernt werden, die nicht von einer Fluchtechnik abhängig sind. Jede Fähigkeit mus einzeln erlernt und geübt werden.
+Zusätzlich zur Fluchtechnik können Fähigkeiten erlernt werden, die nicht von einer Fluchtechnik abhängig sind. Jede Fähigkeit muss einzeln erlernt und geübt werden.
 
 Beim erfolgreichen Verwenden deiner Fluchtechnik steigt deine Erfahrung um 1.
 
@@ -59,13 +59,13 @@ Beim erfolgreichen Verwenden deiner Fluchtechnik steigt deine Erfahrung um 1.
 
 <img class="small-image right" src="img/Toge_commands_a_curse_to_get_crushed.webp" />
 
-Vorraussetzungen: `Inumaki`
+Voraussetzungen: `Inumaki`
 
 Die Fluchede ist eine vererbte Technik der Inumaki-Familie. Sie verstärkt die Worte des Anwenders mit Fluchkraft, die die Zuhörer zwingt, auf der Grundlage dieser Worte zu handeln oder gehandelt zu werden.
 
 Fluchrede wird aktiviert, wenn der Anwender Worte oder Befehle laut ausspricht. Diese Aktion zwingt den Zuhörer zu einer Handlung oder zu einer Befehlsausführung. So kann ein Anwender der Fluchrede seinem Gegner zum Beispiel befehlen, sich nicht mehr zu bewegen, zerquetscht zu werden oder zu sterben. Wie stark der Zwang ist, hängt von der Fluchkraft ab, die der Anwender in die Technik steckt.
 
-Die Kraft kann zwar reguliert werden, aber sie kann nicht vollständig abgeschaltet werden. Der Anwender kann die Fluchrede nicht auf sich selbst anwenden. Das Ziel muss über eine Art von Gehör verfügen, um die Worte des Anwenders aufzunehmen. Die Bedeutung der wörter muss das Ziel nicht verstehen können.
+Die Kraft kann zwar reguliert werden, aber sie kann nicht vollständig abgeschaltet werden. Der Anwender kann die Fluchrede nicht auf sich selbst anwenden. Das Ziel muss über eine Art von Gehör verfügen, um die Worte des Anwenders aufzunehmen. Die Bedeutung der Wörter muss das Ziel nicht verstehen können.
 
 #### Einsatz
 
@@ -104,9 +104,9 @@ Die benötigte Fluchkraft ist abhängig vom Rang des mächtigsten Ziels in Reich
 
 Verwendest du die Fluchrede und kannst die benötigte Fluchkraft nicht aufbringen, fällt deine Kraft auf dich zurück und du erleidest Schaden in höhe der halben aufgebrachten Fluchkraft.
 
-Übersteigt die benötigte Fluchkraft die Fluchkraft, die du aufbringen kannst um das doppelte, erleidest du Schaden in Höte der benötigten Fluchkraft.
+Übersteigt die benötigte Fluchkraft die Fluchkraft, die du aufbringen kannst, um das doppelte, erleidest du Schaden in Höhe der benötigten Fluchkraft.
 
-Um Fluchkraft aufzubrinden, muss du nicht würfeln.
+Um Fluchkraft aufzubringen, musst du nicht würfeln. Du bist alleine dafür verantwortlich, einzuschätzen, welche Worte du verwenden kannst.
 
 ## Fähigkeiten
 
@@ -114,13 +114,13 @@ Zusätzlich zur Fluchtechnik können Fähigkeiten erlernt werden, die nicht von 
 
 Du kannst Aspekte deiner Fluchtechnik mit deinen Fähigkeiten kombinieren und umgekehrt. Dazu musst du dem GM allerdings plausibel erklären, wie das funktionieren soll. Ihr verhandelt dann über die Auswirkungen dieser Kombination.
 
-Beim erfolgreichen verwenden einer Fähigkeiten steigt deine Erfahrung um einen Punkt.
+Beim erfolgreichen Verwenden einer Fähigkeit steigt deine Erfahrung um einen Punkt.
 
 ## Fluchkraft
 
 Um eine Fluchtechnik anwenden zu können, benötigt ein Jujuzist die nötige Menge an Fluchkraft.
 
-Zu Beginn einer Scene, in der du Fluchkraft einsetzen willst, würfelst du die Menge an Fluchkraft, die du generierst. Die maximal erreichbare Menge hängen von deinem Rang ab.
+Zu Beginn einer Szene, in der du Fluchkraft einsetzen willst, würfelst du die Menge an Fluchkraft, die du generierst. Die maximal erreichbare Menge hängen von deinem Rang ab.
 
 | Rang            | Fluchkraft Würfel | Maximale Fluchkraft |
 | --------------- | ----------------- | ------------------- |
@@ -137,9 +137,11 @@ Um deine Fluchtechnik oder eine Fähigkeit anzuwenden oder um Fluchkraft in ein 
 
 ### Negative Fluchkraft einsetzen
 
-Jede in diesem Dokument aufgelistete Fluchtechnik und Fähigkeit wird mit Negativer Fluchkraft oder ohne Fluchkraft verwendet.
+Jede in diesem Dokument aufgelistete Fluchtechnik und Fähigkeit wird mit negativer Fluchkraft oder ohne Fluchkraft verwendet.
 
-Würfle die Menge an Fluchkraft, die du aufbringst um sie einzusetzen. Nach jedem Wurf entscheidest du, ob du weiter würfelst (mehr Fluchkraft aufbringst) oder nicht.
+Würfle die Menge an Fluchkraft, die du aufbringst, um sie einzusetzen. Nach jedem Wurf entscheidest du, ob du weiter würfelst (mehr Fluchkraft aufbringst) oder nicht.
+
+Du entscheidest selbst, welchen Würfel du verwendest.
 
 | Rang            | Maximale Würfe | Maximale Würfelwechsel |
 | --------------- | -------------- | ---------------------- |
@@ -158,21 +160,21 @@ Subtrahiere die aufgebrachte Menge an Fluchkraft von dem was dir aktuell zur Ver
 
 ### Umkehhrtechnik, Positive Fluchkraft einsetzen
 
-Du musst mindestens Rang 3 sein, um so eine Technik anwenden zu können.
+Du musst mindestens Rang 3 sein, um seine solche Technik anwenden zu können.
 
-Eine Umkehrtechnik kann mit jeder Fluchtechnik oder Fähigkeit genutzt werden, die du beherschst. Damit kannst du die gegenteilige Wirkung erzielen wie normalerweise.
+Eine Umkehrtechnik kann mit jeder Fluchtechnik oder Fähigkeit genutzt werden, die du beherschst. Damit kannst du eine gegenteilige Wirkung erzielen wie normalerweise.
 
-Um eine Umkehrtechnik anzuwenden benötigst du die doppelte Menge an Fluchkraft, die du für die normale Anwendung benötigst. Du kombinierst nämlich zwei mal negative Fluchkraft miteinander.
+Um eine Umkehrtechnik anzuwenden, benötigst du die doppelte Menge an Fluchkraft, die du für die normale Anwendung benötigst. Du kombinierst nämlich zwei negative Fluchkräfte miteinander.
 
-Würfle zwei mal für [negative Fluchkraft](#negative-fluchkraft-einsetzen). Die Menge an Fluchkraft die beim Ziel ankommt ist die kleinere Summe minus die Differenz beider Summen.
+Würfle zweimal für [negative Fluchkraft](#negative-fluchkraft-einsetzen). Die Menge an Fluchkraft, die beim Ziel ankommt, ist die kleinere Summe minus die Differenz beider Summen.
 
 Wenn du also `56` und `42` würfelst, verbrauchst du `98` (`56 + 42`). Beim Ziel kommt dann `28` an (`42 - |56 - 42|`).
 
 ### Hollow
 
-Du musst mindestens Rang 1 sein, um so eine Technik anwenden zu können.
+Du musst mindestens Rang 1 sein, um seine solche Technik anwenden zu können.
 
-Du kannst negativ und positiv kombinieren umd eine Hollow-Technik anzuwenden.
+Du kannst negativ und positiv kombinieren, um eine Hollow-Technik anzuwenden.
 
 Du würfelst insgesamt drei Techniken. Zum Beispiel:
 
@@ -184,7 +186,7 @@ Damit ergibt sich eine negative Technik mit einer Stärke von `132` und dem selb
 
 Das kombiniert sich zu einer Hollow-Technik mit einer Stärke von `274` (`132 + 142`) und einem Verbrauch von `470` (`132 + 338`).
 
-Entscheide (logisch schlüssig) wie sich die beiden Fluchkraftarten aufeinander auswirken und was dabei passiert.
+Entscheide (logisch schlüssig), wie sich die beiden Fluchkraftarten aufeinander auswirken und was dabei passiert.
 
 ## Trefferpunkte und Schaden
 
