@@ -154,7 +154,7 @@ Würfle die Menge an Fluchkraft, die du aufbringst um sie einzusetzen. Nach jede
 
 Wenn du die gewürfelte Menge an Fluchkraft nicht aufbringen kannst, verwendest du deine gesamte Fluchkraft, beim Ziel kommt aber nur die hälfte davon an.
 
-Subtrahiere die aufgebrachte Menge an Fluchkraft und teile deinem GM mit, wie viel Fluchkraft beim Ziel ankommt.
+Subtrahiere die aufgebrachte Menge an Fluchkraft von dem was dir aktuell zur Verfügung steht und teile deinem GM mit, wie viel Fluchkraft beim Ziel ankommt.
 
 ### Umkehhrtechnik, Positive Fluchkraft einsetzen
 
@@ -162,9 +162,9 @@ Du musst mindestens Rang 3 sein, um so eine Technik anwenden zu können.
 
 Eine Umkehrtechnik kann mit jeder Fluchtechnik oder Fähigkeit genutzt werden, die du beherschst. Damit kannst du die gegenteilige Wirkung erzielen wie normalerweise.
 
-Um eine Umkehrtechnik anzuwenden benötigst du die doppelte Menge an Fluchkraft, die du für die normale Anwendung benötigst. Du kombinierst nämlich zwei mal negative Flluchkraft miteinander.
+Um eine Umkehrtechnik anzuwenden benötigst du die doppelte Menge an Fluchkraft, die du für die normale Anwendung benötigst. Du kombinierst nämlich zwei mal negative Fluchkraft miteinander.
 
-Fürfle zwei mal für [negativen Fluchkraft](#negative-fluchkraft-einsetzen). Die Menge an Fluchkraft die beim Ziel ankommt ist die kleinere Summe minus die Differenz beider Summen.
+Würfle zwei mal für [negative Fluchkraft](#negative-fluchkraft-einsetzen). Die Menge an Fluchkraft die beim Ziel ankommt ist die kleinere Summe minus die Differenz beider Summen.
 
 Wenn du also `56` und `42` würfelst, verbrauchst du `98` (`56 + 42`). Beim Ziel kommt dann `28` an (`42 - |56 - 42|`).
 
@@ -174,7 +174,15 @@ Du musst mindestens Rang 1 sein, um so eine Technik anwenden zu können.
 
 Du kannst negativ und positiv kombinieren umd eine Hollow-Technik anzuwenden.
 
-Addiere die Menge an [negativer](#negative-fluchkraft-einsetzen) und [postitiver](#umkehhrtechnik-positive-fluchkraft-einsetzen) Fluchkraft, diese ziehst du von deiner Fluchkraft ab. Bei deinem Ziel kommt das **doppelte** an Kraft an.
+Du würfelst insgesamt drei Techniken. Zum Beispiel:
+
+`132`, `160` und `178`.
+
+Der erste Wurf ist die negative Fluchkraft, der zweite und dritte ergeben die Umkehrtechnik.
+
+Damit ergibt sich eine negative Technik mit einer Stärke von `132` und dem selben Verbrauch. Dazu kommt eine Unkehrtechnik mit einer Stärke von `142` (`160 - |178-160|`) mit einem Verbrauch von `338` (`160 + 178`).
+
+Das kombiniert sich zu einer Hollow-Technik mit einer Stärke von `274` (`132 + 142`) und einem Verbrauch von `470` (`132 + 338`).
 
 Entscheide (logisch schlüssig) wie sich die beiden Fluchkraftarten aufeinander auswirken und was dabei passiert.
 
