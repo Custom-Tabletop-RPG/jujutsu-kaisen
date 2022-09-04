@@ -1,3 +1,3 @@
-<img src="img/logo.png" style="width: 45%; height: auto; margin: 0 auto;" />
-
 # Jujutsu Kaisen P&P
+
+[![pages-build-deployment](https://github.com/Custom-Tabletop-RPG/jujutsu-kaisen/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/Custom-Tabletop-RPG/jujutsu-kaisen/actions/workflows/pages/pages-build-deployment)
