@@ -8,6 +8,10 @@ Die Beschreibung deines Charakters basiert auf Tags. Widersprüchliche Tags kön
 
 Während der Charaktererstellung wirst du auf Voraussetzungen stoßen. Zum Beispiel hat die [Fluchtechnik](#fluchtechniken) [Fluchrede](#fluchrede) die Voraussetzung `Inumaki`, diesen Tag bekommst du, wenn du dem [Inumaki Klan](#inumaki) angehörst.
 
+## Erfahrung
+
+Wärend der Kampagne erhält dein Charakter Erfahrung. Für dieses Regelwerk ist vorgesehen, dass die möglichen Erfahrungspunkte von 0 bis 10000 reichen.
+
 ## Charaktererstellung
 
 1. Wähle einen **Klan**.
@@ -108,6 +112,127 @@ Verwendest du die Fluchrede und kannst die benötigte Fluchkraft nicht aufbringe
 
 Um Fluchkraft aufzubringen, musst du nicht würfeln. Du bist alleine dafür verantwortlich, einzuschätzen, welche Worte du verwenden kannst.
 
+### Zehn Schatten Technik
+
+Voraussetzungen: `Zenin`
+
+Die Zehn-Schatten-Technik ist eine vererbte Technik, die in der Zenin-Familie weitergegeben wird. Durch die Verwendung von Schatten als Medium erlaubt diese Technik dem Anwender, zehn verschiedene Shikigami zu beschwören.
+
+Wenn jemand die Zehn-Schatten-Technik erbt, erhält er zwei göttliche Hunde. Andere Shikigami können mit einem Exorzismus-Ritual beschworen werden, bei dem der Anwender die Shikigami besiegen muss, um sie zu unterwerfen.
+
+Einmal beherrscht, stehen die Shikigami unter der vollen Kontrolle ihres Meisters und können mit Handzeichen beschworen werden, die eine Schattenfigur des jeweiligen Vertrauten erzeugt. Die Schatten fungieren als Medium für die Shikigami-Beschwörung, indem sie die Form der Shikigami aus greifbaren, flüssigen Schatten mit Hilfe von Fluchkraft manifestieren. Nachdem der Anwender weitere Vertraute gewonnen hat, kann er den rituellen Prozess wiederholen, um bis zu zehn verschiedene Shikigami zu beschwören und zu sammeln.
+
+Du zahlst die Kosten, wenn ein Shikigami Fluchkraft einsetzt.
+
+#### Gyokuken
+
+<img class="tiny-image right" src="img/Fushiguro_using_Jade_Hounds.webp" />
+
+Die zwei Wolfe sind Zwillinge, jeder der beiden verfügt über 20 Trefferpunkte. Sie gelten als eine Beschwörung. Stirbt einer der beiden, erbt der andere seine vollständige Kraft (Angriffsstärke und Kosten verdoppeln sich).
+
+Die Beschwörung kostet 8 Fluchkraft.
+
+| Fähigkeit | Schaden | Reichweite | Kosten |
+| --------- | ------- | ---------- | ------ |
+| Klauen    | 4 D4    | Berührung  | 2 D6   |
+| Biss      | 5 D4    | Berührung  | 4 D4   |
+
+#### Nue
+
+<img class="tiny-image left" src="img/Megumi_summoning_Nue_to_save_Ino.webp" />
+
+Nue ist ein vogelähnliches Wesen mit orangefarbenen Federn und einem weißen, maskenähnlichem Gesicht. Es hat große Flügel, zwei Sätze von Krallen und menschenähnliche Zähne.
+
+Nue ist ein vielseitiges Shikigami, vor allem wegen seiner erweiterten Mobilität, die es durch seine Fähigkeit zu fliegen erhält. Es verfüht über 50 Trefferpunkte.
+
+Die Beschwörung kostet 20 Fluchkraft.
+
+| Fähigkeit   | Schaden      | Reichweite | Kosten | Effekt     |
+| ----------- | ------------ | ---------- | ------ | ---------- |
+| Blitzflügel | 4 D12        | 20 Meter   | 6 D6   | Betäuben 3 |
+| Blitzflügel | 4 D12 + 2 D4 | Berührung  | 7 D6   | Betäuben 4 |
+
+#### Gama
+
+<img class="tiny-image right" src="img/Toad_saving_Megumi_from_danger.webp" />
+
+Gama ist eine menschengroße Kröte mit Zeichen um den Augen und einem Symbol auf dem Bauch, das dem Spiegel der Tiefe der zehn heiligen Schätze ähnelt. Es verfügt über 35 Trefferpunkte.
+
+Die Beschwörung kostet 15 Fluchkraft.
+
+| Fähigkeit    | Schaden | Reichweite | Kosten |
+| ------------ | ------- | ---------- | ------ |
+| Zungenschlag | 2 D12   | 50 Meter   | 3 D6   |
+
+#### Seiteishirazu
+
+<img class="tiny-image left" src="img/Fushiguro_using_Toads_Bottomless_Well.webp" />
+
+Die Beschwörung kostet 10 Fluchkraft und verfügt über 25 Trefferpunkte.
+
+Kombiniert das Nue- und das Gama-Shikigami, um eine Vielzahl geflügelter Kröten zu erschaffen, die schwächer sind als die ursprünglichen Kröten, aber ohne Folgen zerstört werden können.
+
+| Fähigkeit    | Schaden     | Reichweite | Kosten |
+| ------------ | ----------- | ---------- | ------ |
+| Zungenschlag | 1 D12 + 1D4 | 35 Meter   | 2 D6   |
+
+#### Orochi
+
+<img class="tiny-image right" src="img/Fushiguro_attacking_Sukuna_with_Monster_Serpent.webp" />
+
+Die Beschwörung kostet 20 Fluchkraft und verfügt über 60 Trefferpunkte.
+
+| Fähigkeit    | Schaden | Reichweite | Kosten | Effekt     |
+| ------------ | ------- | ---------- | ------ | ---------- |
+| Zerquetschen | 4 D12   | Kontakt    | 2 D6   | -          |
+| Biss         | 5 D12   | Kontakt    | 3 D12  | Betäuben 6 |
+
+#### Banshō
+
+<img class="tiny-image left" src="img/Max_Elephant_smashing_Awasaka.webp" />
+
+Banshō ist ein Elefanten-Shikigami, das große Mengen an Wasser aus seinem Rüssel spucken kann. Es kann auch verwendet werden, um das Ziel seines Meisters mit seinem Gewicht zu zerquetschen. Allerdings kostet seine Beschwörung im Vergleich zu anderen Shikigami eine Menge Fluchkraft.
+
+Die Beschwörung kostet 50 Fluchkraft und verfügt über 120 Trefferpunkte.
+
+| Fähigkeit             | Schaden | Reichweite | Kosten | Effekt     |
+| --------------------- | ------- | ---------- | ------ | ---------- |
+| Reißende Wasserströme | 4 D20   | 50 Meter   | 3 D20  | Betäuben 1 |
+| Wildes Stampfen       | 4 D20   | Kontakt    | 4 D12  | Betäuben 3 |
+
+#### Datto
+
+<img class="tiny-image right" src="img/Rabbit_Escape.webp" />
+
+Datto ist ein Schwarm aus unzähligen Kaninchen-Shikigami. Jedes Kaninchen kostet 2 Fluchkraft und verfügt über 5 Trefferpunkte.
+
+Im Gegensatz zu vielen anderen Shikigami der Zehn-Schatten-Technik können Kaninchen weiterhin in großer Zahl produziert werden, unabhängig davon, wie viele von ihnen zerstört werden.
+
+Die Stärke dieser Shikigami ist, dass sie in großen Shaaren verwendet werden und sich schnell bewegen können.
+
+| Fähigkeit  | Schaden | Reichweite | Kosten |
+| ---------- | ------- | ---------- | ------ |
+| Zahnklinge | 1 D4    | Kontakt    | 1 D4   |
+
+#### Yatsuka-no-Tsurugi Ikaishinshō Makora (kurz Mahoraga)
+
+<img class="small-image right" src="img/Eight-Handled_Sword_Divergent_Sila_Divine_General_Mahoraga.webp" />
+
+Dieser ist der mächtigste Shikigami der Zehn-Schatten-Technik. In seiner gesamten Geschichte hat es kein Anwender der Zehn-Schatten-Technik geschafft, ihn zu bändigen.
+
+Der Shikigami selbst ist eine hoch aufragende, muskulöse humanoide Figur mit vier Flügeln, die aus den Augenhöhlen ragen, und einem schwanzähnlichen Anhängsel, das aus dem Hinterkopf herausragt. Direkt darüber schwebt ein großes Rad mit acht Griffen, das sich dreht, wenn Mahoraga auf neue Reize reagiert. Furus Beschwörung der zehn heiligen Schätze und dieses Rad stehen für einen vollständigen Zyklus und Harmonie. Mahoraga trägt außerdem eine schwarze Hakama-Hose und eine weiße Schärpe um seine Taille, die den größten Teil seines Unterkörpers bedeckt.
+
+Der Göttliche General besitzt die Fähigkeit, sich an alle Phänomene anzupassen. Wenn er durch einen bestimmten Angriff verletzt wird, dreht sich das achtarmige Rad und erlaubt ihm, sich anzupassen. Wenn sein Gegner dieselbe Technik erneut anwendet, kann Mahoraga sie kontern. Dies funktioniert auch in der Offensive, indem er sich dem Angriff anpasst, um die Verteidigung des Gegners effizient zu durchbrechen.
+
+Außerdem hat der Mahoraga die Kraft, Beton zu zerschlagen oder jemanden mit einem einzigen Schlag durch mehrere Gebäude zu schlagen. Er schwingt auch das Schwert der Vernichtung, eine Klinge, die an seinem Unterarm befestigt ist und von positiver Energie umhüllt wird, was sie besonders effektiv gegen verfluchte Geister macht.
+
+Mahoraga zu beschwören kostet keine Fluchkraft, aber es ist sehr schwierig, ihn zu kontrollieren. Wenn er beschworen wird, verfügt er über 1000 Trefferpunkte.
+
+| Fähigkeit   | Schaden | Reichweite | Kosten |
+| ----------- | ------- | ---------- | ------ |
+| Schlag      | 6 D20   | Kontakt    | 3 D12  |
+| Schwerthieb | 10 D20  | Kontakt    | 5 D12  |
+
 ## Fähigkeiten
 
 Zusätzlich zur Fluchtechnik können Fähigkeiten erlernt werden, die nicht von einer Fluchtechnik abhängig sind. Jede Fähigkeit mus einzeln erlernt und geübt werden.
@@ -160,7 +285,7 @@ Subtrahiere die aufgebrachte Menge an Fluchkraft von dem was dir aktuell zur Ver
 
 ### Umkehrtechnik, Positive Fluchkraft einsetzen
 
-Du musst in einer Technik `200 Erfahrung` haben, um sie als Umkehrtechnik anwenden zu können.
+Du musst in einer Technik `500 Erfahrung` haben, um sie als Umkehrtechnik anwenden zu können.
 
 Eine Umkehrtechnik kann mit jeder Fluchtechnik oder Fähigkeit genutzt werden, die du beherschst. Damit kannst du eine gegenteilige Wirkung erzielen wie normalerweise.
 
@@ -174,7 +299,7 @@ Erkläre plausibel wie sich deine Technik mit positiver Fluchkraft verhält.
 
 ### Hollow
 
-Du musst in einer Technik mindestens `500 Erfahrung` haben, um sie als Hollow anwenden zu können.
+Du musst in einer Technik mindestens `5000 Erfahrung` haben, um sie als Hollow anwenden zu können.
 
 Du kannst negativ und positiv kombinieren, um eine Hollow-Technik anzuwenden.
 

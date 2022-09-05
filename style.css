@@ -1,4 +1,5 @@
 @media screen and (max-width: 349px) {
+  .tiny-image,
   .small-image {
     width: 100%;
     height: auto;
@@ -12,13 +13,25 @@
     width: 200px;
   }
 
+  .tiny-image {
+    min-width: 15%;
+    max-width: 35%;
+    width: 100px;
+  }
+
+  .tiny-image.right,
   .small-image.right {
     float: right;
     margin-left: 1em;
   }
 
+  .tiny-image.left,
   .small-image.left {
     float: left;
     margin-right: 1em;
   }
+}
+
+markdown-body > p {
+  page-break-inside: avoid;
 }
