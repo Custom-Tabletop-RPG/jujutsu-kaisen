@@ -3,3 +3,6 @@
 Dieses Regelwerk ist noch in bearbeitung.
 
 - [Regelwerk](regelwerk.md)
+- [Charakterbogen](charakterbogen.md)
+- [Lizenz](LICENSE.md)
+ 
