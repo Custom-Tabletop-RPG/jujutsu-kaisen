@@ -158,9 +158,9 @@ Wenn du die gewürfelte Menge an Fluchkraft nicht aufbringen kannst, verwendest 
 
 Subtrahiere die aufgebrachte Menge an Fluchkraft von dem was dir aktuell zur Verfügung steht und teile deinem GM mit, wie viel Fluchkraft beim Ziel ankommt.
 
-### Umkehhrtechnik, Positive Fluchkraft einsetzen
+### Umkehrtechnik, Positive Fluchkraft einsetzen
 
-Du musst mindestens Rang 3 sein, um seine solche Technik anwenden zu können.
+Du musst in einer Technik `200 Erfahrung` haben, um sie als Umkehrtechnik anwenden zu können.
 
 Eine Umkehrtechnik kann mit jeder Fluchtechnik oder Fähigkeit genutzt werden, die du beherschst. Damit kannst du eine gegenteilige Wirkung erzielen wie normalerweise.
 
@@ -170,9 +170,11 @@ Würfle zweimal für [negative Fluchkraft](#negative-fluchkraft-einsetzen). Die 
 
 Wenn du also `56` und `42` würfelst, verbrauchst du `98` (`56 + 42`). Beim Ziel kommt dann `28` an (`42 - |56 - 42|`).
 
+Erkläre plausibel wie sich deine Technik mit positiver Fluchkraft verhält.
+
 ### Hollow
 
-Du musst mindestens Rang 1 sein, um seine solche Technik anwenden zu können.
+Du musst in einer Technik mindestens `500 Erfahrung` haben, um sie als Hollow anwenden zu können.
 
 Du kannst negativ und positiv kombinieren, um eine Hollow-Technik anzuwenden.
 
