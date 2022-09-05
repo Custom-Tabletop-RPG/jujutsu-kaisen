@@ -35,3 +35,7 @@
 markdown-body > p {
   page-break-inside: avoid;
 }
+
+.markdown-body table {
+  width: fit-content !important;
+}
