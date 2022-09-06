@@ -37,31 +37,25 @@ Drücke `Strg`+ `P` zum drucken.
     <label>Name <input type="text" /></label>
     <label>Erfahrung <input type="text" /></label>
     <label>Effekt <input type="text" /></label>
-    <label style="width:100%">Beschreibung <textarea style="width:100%;resize:none;height:8em"></textarea></label>
+    <label style="width:100%">Beschreibung <textarea style="width:100%;resize:none;height:5em"></textarea></label>
   </div>
   <div>
     <label>Name <input type="text" /></label>
     <label>Erfahrung <input type="text" /></label>
     <label>Effekt <input type="text" /></label>
-    <label style="width:100%">Beschreibung <textarea style="width:100%;resize:none;height:8em"></textarea></label>
+    <label style="width:100%">Beschreibung <textarea style="width:100%;resize:none;height:5em"></textarea></label>
   </div>
   <div>
     <label>Name <input type="text" /></label>
     <label>Erfahrung <input type="text" /></label>
     <label>Effekt <input type="text" /></label>
-    <label style="width:100%">Beschreibung <textarea style="width:100%;resize:none;height:8em"></textarea></label>
+    <label style="width:100%">Beschreibung <textarea style="width:100%;resize:none;height:5em"></textarea></label>
   </div>
   <div>
     <label>Name <input type="text" /></label>
     <label>Erfahrung <input type="text" /></label>
     <label>Effekt <input type="text" /></label>
-    <label style="width:100%">Beschreibung <textarea style="width:100%;resize:none;height:8em"></textarea></label>
-  </div>
-  <div>
-    <label>Name <input type="text" /></label>
-    <label>Erfahrung <input type="text" /></label>
-    <label>Effekt <input type="text" /></label>
-    <label style="width:100%">Beschreibung <textarea style="width:100%;resize:none;height:8em"></textarea></label>
+    <label style="width:100%">Beschreibung <textarea style="width:100%;resize:none;height:5em"></textarea></label>
   </div>
 </div>
 
