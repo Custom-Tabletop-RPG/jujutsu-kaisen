@@ -351,6 +351,16 @@ Das kombiniert sich zu einer Hollow-Technik mit einer Stärke von `274` (`132 + 
 
 Entscheide (logisch schlüssig), wie sich die beiden Fluchkraftarten aufeinander auswirken und was dabei passiert.
 
+### Sphären-Entfaltung
+
+Die Domänenerweiterung ist eine fortgeschrittene Barrieretechnik, welche die innere Sphäre des Anwenders manifestiert und das Ziel mit Hilfe einer Barrierewand in ihr gefangen hält, um einen separaten Raum zu schaffen. Im Inneren trifft der eigentümer der Sphäre immer.
+
+Eine Sphäre kann durch eine stärkere zurückgedrängt werden. Von innen ist sie unzerstörbar. Von außen kann man mit etwas Kraftaufwand ein Loch in die Barriere schlagen.
+
+Teleportation aus einer Sphäre heraus ist nur dem Eigentümer möglich, dabei kann die Sphäre allerdings nicht mehr aufrecht erhalten werden.
+
+Jede Sphären-Entfaltung ist ab einer Erfahrung von `5000` für die Fluchtechnik möglich.
+
 ## Trefferpunkte
 
 Ein Spieler startet mit `6 D6` Trefferpunkten.
