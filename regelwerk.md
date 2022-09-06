@@ -395,10 +395,10 @@ Beobachte eine Kratur um Informationen über ihre Technik zu erhalten.
 
 ## Training
 
-Beim Training kannst du dich verbessern. Erhöhe deine Erfahrung in deiner Fluchtechnik oder einer Fähigkeit um einen D12.
+Beim Training kannst du dich verbessern. Erhöhe deine Erfahrung in deiner Fluchtechnik oder einer Fähigkeit um einen D6.
 
 Du kannst auch deinen Körper trainieren. Erhöhe deine Trefferpunkte um einen D6.
 
-Wenn du mit einem Lehrer oder ranghöheren trainierst, kannst du deinen Erfolg verdoppeln.
+Wenn du mit einem Lehrer oder ranghöheren trainierst, erhöht dieser dein Trainingsergebnis einen D4.
 
 <link href="style.css" rel="stylesheet" />
