@@ -192,7 +192,7 @@ Bedenke, dass der Schaden die hälfte der investierten Fluchkraft beträgt, da e
 
 Purpur ist die Verschmelzung von Rot und Blau, eine geheime Fähigkeit, die nur wenigen in der Gojo-Familie bekannt ist. Sie steht für Bewegung und Umkehrung, eine Verschmelzung von Konvergenz und Divergenz, die beide Unendlichkeiten aufeinanderprallen lässt, um eine imaginäre Masse zu erzeugen. Der Effekt enthebt das Ziel der Realität und löscht alles, was die Technik trifft, sofort und ausnahmslos aus.
 
-Kamehameha ist ein Witz dagegen :wink:
+Kamehameha ist ein Witz dagegen 😉.
 
 <table><thead>
 <tr><th>Schwellwert</th><td>75</td></tr>
