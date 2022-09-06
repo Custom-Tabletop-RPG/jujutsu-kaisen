@@ -11,6 +11,10 @@ Drücke `Strg`+ `P` zum drucken.
     <label>Trefferpunkte <input type="text" /></label>
   </div>
   <div>
+    <label>Hintergrund</label>
+    <textarea></textarea>
+  </div>
+  <div>
     <label style="width: 100%">Tags</label>
     <input type="text" />
     <input type="text" />
@@ -86,6 +90,12 @@ Drücke `Strg`+ `P` zum drucken.
     display: flex;
     flex-direction: column;
     gap: 0.5rem;
+  }
+
+  .character-sheet > div > textarea {
+    width: 100%;
+    height: 200px;
+    resize: none;
   }
 
   .character-sheet > div,
