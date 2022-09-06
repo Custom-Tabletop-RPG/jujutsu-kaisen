@@ -4,6 +4,6 @@ Dieses Regelwerk ist noch in bearbeitung.
 
 - [Regelwerk](regelwerk.md)
 - [Charakterbogen](charakterbogen.md)
-- [Lizenz](LICENSE.md)
+- [Lizenz](https://github.com/Custom-Tabletop-RPG/jujutsu-kaisen/blob/main/LICENSE.md)
 
 <img src="img/Yuta_Okkotsu_Chapter_137.webp" style="width:100%;height:75vmin;object-fit:contain;" />
