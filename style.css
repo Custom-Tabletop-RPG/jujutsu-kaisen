@@ -38,4 +38,5 @@ markdown-body > p {
 
 .markdown-body table {
   width: fit-content !important;
+  max-width: 100% !important;
 }
