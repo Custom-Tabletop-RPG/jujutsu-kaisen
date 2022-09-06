@@ -336,7 +336,17 @@ Das kombiniert sich zu einer Hollow-Technik mit einer Stärke von `274` (`132 + 
 
 Entscheide (logisch schlüssig), wie sich die beiden Fluchkraftarten aufeinander auswirken und was dabei passiert.
 
-## Trefferpunkte und Schaden
+## Trefferpunkte
+
+Ein Spieler startet mit `6 D6` Trefferpunkten.
+
+Einmal ausgewürfelt, können diese nur durch sonder-Events oder Training verändert werden.
+
+Bei einem Fluchkraftangriff wird die Menge an Fluchkraft, die beim Ziel ankommt, von dessen Trefferpunkten abgezogen. Bei einem rein physischen Angriff wird die Menge an Schaden, die beim Ziel ankommt, von dessen Trefferpunkten abgezogen.
+
+Fällt ein Spieler auf `0` oder weniger Trefferpunkte, wird er Bewustlos.
+
+Fällt ein Spieler auf den Negativwert seiner eigenen Trefferpunkte, stirbt er.
 
 ## Aktionen
 
