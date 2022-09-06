@@ -14,10 +14,31 @@ Wärend der Kampagne erhält dein Charakter Erfahrung. Für dieses Regelwerk ist
 
 ## Charaktererstellung
 
-1. Wähle einen **Klan**.
+1. Wähle einen **[Klan](#klans)**.
    Dieser bestimmt auch einen Großteil deiner Vergangenheit, wenn du dich für eine der drei großen Klans (Gojo, Kamo und Zenin) entscheidest.
 1. Passe deinen **Hintergrund** an.
    Gebunden an das, was dein Klan dir vorgibt, kannst du deinen Hintergrund frei wählen.
+1. Passe deine **[Uniform](#uniform)** an
+
+## Uniform
+
+Wenn du möchtest, kannst du Details deiner Uniform ändern lassen.
+
+### Standard
+
+<img src="img/Satoru_Gojo_1.webp" style="display: inline; height: 47vh; width: auto" />
+
+### Anpassungen
+
+<div style="display: flex; width: 100%; align-items: flex-end; flex-wrap: wrap">
+  <img src="img/Yuji_Itadori.webp" style="display: inline; height: 45vh; width: auto" />
+  <img src="img/Nobara_Kugisaki.webp" style="display: inline; height: 45vh; width: auto" />
+  <img src="img/Maki_Zenin.webp" style="display: inline; height: 47vh; width: auto" />
+  <img src="img/Mei_Mei.webp" style="display: inline; height: 48vh; width: auto" />
+  <img src="img/Kasumi_Miwa_Anime.webp" style="display: inline; height: 45vh; width: auto" />
+  <img src="img/Noritoshi_Kamo_Anime.webp" style="display: inline; height: 49vh; width: auto" />
+  <img src="img/Momo_Nishimiya_Anime.webp" style="display: inline; height: 43vh; width: auto" />
+</div>
 
 ## Klans
 
