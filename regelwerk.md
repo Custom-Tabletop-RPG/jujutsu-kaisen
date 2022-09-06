@@ -2,8 +2,8 @@
 
 <img class="small-image right" src="img/Yuta_volunteers_to_enter_a_colony_first.webp" style="shape-outside:url(img/Yuta_volunteers_to_enter_a_colony_first.webp)" />
 
-* TOC
-{:toc}
+- TOC
+  {:toc}
 
 ## Tags
 
@@ -148,6 +148,68 @@ Verwendest du die Fluchrede und kannst die benötigte Fluchkraft nicht aufbringe
 
 Um Fluchkraft aufzubringen, musst du nicht würfeln. Du bist alleine dafür verantwortlich, einzuschätzen, welche Worte du verwenden kannst.
 
+### Grenzenlos (無下限, Mukagen)
+
+Voraussetzungen: `Gojo`
+
+#### Neutrale Grenzenlosigkeit: Unendlichkeit (無限大, Bugendai)
+
+Die Unendlichkeit ist die Konvergenz einer unermesslichen Reihe, alles, was sich der Unendlichkeit nähert, verlangsamt sich und erreicht den Anwender nie. Das liegt daran, dass die Technik den endlichen Raum zwischen den beiden Subjekten unendlich oft teilt.
+
+Kostet immer 4 Fluchkraft und ist nicht steigerbar (Steigerung sntspricht dem Jujutsu Blau).
+
+#### Blau (蒼, Ao)
+
+<img class="tiny-image right" src ="img/Satoru_taking_out_two_clones_at_once_with_Blue.webp" />
+
+Du musst in Unendlichkeit einer Erfahrung von mindestens `10` haben.
+
+Blau verstärkt Unendlichkeit und bringt die Unmöglichkeit des negativen Raumes in die Realität. Dies zwingt den umgebenden Raum, zu versuchen, die Lücke zu füllen, indem er gewaltsam in Richtung der Quelle der genannten Unmöglichkeit gedrückt wird, wodurch eine art magnetischer Effekt entsteht.
+
+Bei jedem, der direkt mit Blau getroffen wird, implodiert der Körper und die Gliedmaßen werden sofort zerquetscht. Der Anwender kann diesen Effekt nutzen, um sich selbst mit hoher Geschwindigkeit zu bewegen oder massive Mengen verfluchter Energie aufbringen, um ein großes Anziehungsfeld von sich weg zu erzeugen. Stärkere Variationen von Blau können verwendet werden, um sich schneller bewegende Ziele oder große Gebiete anzuvisieren.
+
+<table><thead>
+<tr><th>Schwellwert</th><td>24</td></tr>
+</thead></table>
+
+#### Umkehrtechnik Rot (赫, Aka)
+
+<img class="small-image right" src ="img/Cursed_Technique_Reversal_Red.webp" />
+
+Kehrt die Wirkung von Blau um und bringt die Divergenz der Unendlichkeit in die Realität und erzeugt die Kraft des Abstoßens.
+
+Dies wird erreicht, indem positive Fluchkraft in die Kraft von Grenzenlos geleitet, wodurch eine abstoßende anstatt einer magnetischen Wirkung entsteht.
+
+Bedenke, dass der Schaden die hälfte der investierten Fluchkraft beträgt, da es sich um eine Umkehrtechnik handelt.
+
+<table><thead>
+<tr><th>Schwellwert</th><td>32</td></tr>
+</thead></table>
+
+#### Hohles Purpur (虚式「茈」, Kyoshiki・Murasaki)
+
+<div class="gif" style="--screen: url(img/Hollow_Purple.webp);--print:url(img/Hollow_Technique_Purple.webp)"></div>
+
+Purpur ist die Verschmelzung von Rot und Blau, eine geheime Fähigkeit, die nur wenigen in der Gojo-Familie bekannt ist. Sie steht für Bewegung und Umkehrung, eine Verschmelzung von Konvergenz und Divergenz, die beide Unendlichkeiten aufeinanderprallen lässt, um eine imaginäre Masse zu erzeugen. Der Effekt enthebt das Ziel der Realität und löscht alles, was die Technik trifft, sofort und ausnahmslos aus.
+
+Kamehameha ist ein Witz dagegen :wink:
+
+<table><thead>
+<tr><th>Schwellwert</th><td>75</td></tr>
+<tr><th>Effekt</th><td>Auslöschung</td></tr>
+</thead></table>
+
+Diese Technik macht keinen Schaden, die löscht aus. Steigerung ist in der Fläche des Angriffs möglich.
+
+#### Sphären-Entfaltung: Grenzenlose Leere
+
+In dieser Sphäre gefangene werden mit allen Informationen des gesamten Universums überladen. Sie sind vollständig handlungsunfähig.
+
+<table><thead>
+<tr><th>Macht</th><td>20</td></tr>
+<tr><th>Effekt</th><td>Betäuben 30 auf alle Gegner</td></tr>
+</thead></table>
+
 ### Zehn Schatten Technik
 
 Voraussetzungen: `Zenin`
@@ -158,7 +220,7 @@ Wenn jemand die Zehn-Schatten-Technik erbt, erhält er zwei göttliche Hunde. An
 
 Einmal beherrscht, stehen die Shikigami unter der vollen Kontrolle ihres Meisters und können mit Handzeichen beschworen werden, die eine Schattenfigur des jeweiligen Vertrauten erzeugt. Die Schatten fungieren als Medium für die Shikigami-Beschwörung, indem sie die Form der Shikigami aus greifbaren, flüssigen Schatten mit Hilfe von Fluchkraft manifestieren. Nachdem der Anwender weitere Vertraute gewonnen hat, kann er den rituellen Prozess wiederholen, um bis zu zehn verschiedene Shikigami zu beschwören und zu sammeln.
 
-Du zahlst die Kosten, wenn ein Shikigami Fluchkraft einsetzt.
+Du zahlst die Kosten, wenn ein Shikigami Fluchkraft einsetzt. Jedoch verbrauchst du nur 75% der Fluchkraft, die dein Gegner abbekommt.
 
 #### Gyokuken
 
@@ -168,10 +230,10 @@ Die zwei Wolfe sind Zwillinge, jeder der beiden verfügt über 20 Trefferpunkte.
 
 Die Beschwörung kostet 8 Fluchkraft.
 
-| Fähigkeit | Schaden | Reichweite | Kosten |
-| --------- | ------- | ---------- | ------ |
-| Klauen    | 4 D4    | Berührung  | 2 D6   |
-| Biss      | 5 D4    | Berührung  | 4 D4   |
+| Fähigkeit | Schwellwert | Reichweite |
+| --------- | ----------- | ---------- |
+| Klauen    | 8           | Berührung  |
+| Biss      | 10          | Berührung  |
 
 #### Nue
 
@@ -183,10 +245,10 @@ Nue ist ein vielseitiges Shikigami, vor allem wegen seiner erweiterten Mobilitä
 
 Die Beschwörung kostet 20 Fluchkraft.
 
-| Fähigkeit   | Schaden      | Reichweite | Kosten | Effekt     |
-| ----------- | ------------ | ---------- | ------ | ---------- |
-| Blitzflügel | 4 D12        | 20 Meter   | 6 D6   | Betäuben 3 |
-| Blitzflügel | 4 D12 + 2 D4 | Berührung  | 7 D6   | Betäuben 4 |
+| Fähigkeit   | Schwellwert | Reichweite | Effekt       |
+| ----------- | ----------- | ---------- | ------------ |
+| Blitzflügel | 24          | 20 Meter   | `Betäuben 3` |
+| Blitzflügel | 28          | Berührung  | `Betäuben 4` |
 
 #### Gama
 
@@ -196,9 +258,9 @@ Gama ist eine menschengroße Kröte mit Zeichen um den Augen und einem Symbol au
 
 Die Beschwörung kostet 15 Fluchkraft.
 
-| Fähigkeit    | Schaden | Reichweite | Kosten |
-| ------------ | ------- | ---------- | ------ |
-| Zungenschlag | 2 D12   | 50 Meter   | 3 D6   |
+| Fähigkeit    | Schwellwert | Reichweite |
+| ------------ | ----------- | ---------- |
+| Zungenschlag | 12          | 50 Meter   |
 
 #### Seiteishirazu
 
@@ -208,9 +270,9 @@ Die Beschwörung kostet 10 Fluchkraft und verfügt über 25 Trefferpunkte.
 
 Kombiniert das Nue- und das Gama-Shikigami, um eine Vielzahl geflügelter Kröten zu erschaffen, die schwächer sind als die ursprünglichen Kröten, aber ohne Folgen zerstört werden können.
 
-| Fähigkeit    | Schaden     | Reichweite | Kosten |
-| ------------ | ----------- | ---------- | ------ |
-| Zungenschlag | 1 D12 + 1D4 | 35 Meter   | 2 D6   |
+| Fähigkeit    | Schwellwert | Reichweite |
+| ------------ | ----------- | ---------- |
+| Zungenschlag | 10          | 35 Meter   |
 
 #### Orochi
 
@@ -218,10 +280,10 @@ Kombiniert das Nue- und das Gama-Shikigami, um eine Vielzahl geflügelter Kröte
 
 Die Beschwörung kostet 20 Fluchkraft und verfügt über 60 Trefferpunkte.
 
-| Fähigkeit    | Schaden | Reichweite | Kosten | Effekt     |
-| ------------ | ------- | ---------- | ------ | ---------- |
-| Zerquetschen | 4 D12   | Kontakt    | 2 D6   | -          |
-| Biss         | 5 D12   | Kontakt    | 3 D12  | Betäuben 6 |
+| Fähigkeit    | Schwellwert | Reichweite | Effekt     |
+| ------------ | ----------- | ---------- | ---------- |
+| Zerquetschen | 24          | Kontakt    | -          |
+| Biss         | 30          | Kontakt    | Betäuben 6 |
 
 #### Banshō
 
@@ -231,10 +293,10 @@ Banshō ist ein Elefanten-Shikigami, das große Mengen an Wasser aus seinem Rüs
 
 Die Beschwörung kostet 50 Fluchkraft und verfügt über 120 Trefferpunkte.
 
-| Fähigkeit             | Schaden | Reichweite | Kosten | Effekt     |
-| --------------------- | ------- | ---------- | ------ | ---------- |
-| Reißende Wasserströme | 4 D20   | 50 Meter   | 3 D20  | Betäuben 1 |
-| Wildes Stampfen       | 4 D20   | Kontakt    | 4 D12  | Betäuben 3 |
+| Fähigkeit             | Schwellwert | Reichweite | Effekt     |
+| --------------------- | ----------- | ---------- | ---------- |
+| Reißende Wasserströme | 80          | 50 Meter   | Betäuben 1 |
+| Wildes Stampfen       | 80          | Kontakt    | Betäuben 3 |
 
 #### Datto
 
@@ -246,9 +308,9 @@ Im Gegensatz zu vielen anderen Shikigami der Zehn-Schatten-Technik können Kanin
 
 Die Stärke dieser Shikigami ist, dass sie in großen Shaaren verwendet werden und sich schnell bewegen können.
 
-| Fähigkeit  | Schaden | Reichweite | Kosten |
-| ---------- | ------- | ---------- | ------ |
-| Zahnklinge | 1 D4    | Kontakt    | 1 D4   |
+| Fähigkeit  | Schwellwert | Reichweite |
+| ---------- | ----------- | ---------- |
+| Zahnklinge | 2           | Kontakt    |
 
 #### Yatsuka-no-Tsurugi Ikaishinshō Makora (kurz Mahoraga)
 
@@ -264,10 +326,10 @@ Außerdem hat der Mahoraga die Kraft, Beton zu zerschlagen oder jemanden mit ein
 
 Mahoraga zu beschwören kostet keine Fluchkraft, aber es ist sehr schwierig, ihn zu kontrollieren. Wenn er beschworen wird, verfügt er über 1000 Trefferpunkte.
 
-| Fähigkeit   | Schaden | Reichweite | Kosten |
-| ----------- | ------- | ---------- | ------ |
-| Schlag      | 6 D20   | Kontakt    | 3 D12  |
-| Schwerthieb | 10 D20  | Kontakt    | 5 D12  |
+| Fähigkeit   | Schwellwert | Reichweite |
+| ----------- | ----------- | ---------- |
+| Schlag      | 60          | Kontakt    |
+| Schwerthieb | 100         | Kontakt    |
 
 ## Fähigkeiten
 
@@ -279,41 +341,23 @@ Beim erfolgreichen Verwenden einer Fähigkeit steigt deine Erfahrung um einen Pu
 
 ## Fluchkraft
 
-Um eine Fluchtechnik anwenden zu können, benötigt ein Jujuzist die nötige Menge an Fluchkraft.
+Um eine Jujutsu anwenden zu können, benötigst du die nötige Menge an Fluchkraft, diese entsteht hauptsächlich aus negativen Emotionen.
 
-Zu Beginn einer Szene, in der du Fluchkraft einsetzen willst, würfelst du die Menge an Fluchkraft, die du generierst. Die maximal erreichbare Menge hängen von deinem Rang ab.
+Ein Jujuzist lernt mit der Zeit aus jeder Art von Emotion Fluchkraft zu generieren.
 
-| Rang            | Fluchkraft Würfel | Maximale Fluchkraft |
-| --------------- | ----------------- | ------------------- |
-| Rang 4          | D20 + D6          | 26                  |
-| Rang 3          | D20 + D12         | 32                  |
-| Zwischen-Rang 2 | D20 + 2 D12       | 44                  |
-| Rang 2          | 2 D20 + D12       | 52                  |
-| Zwischen-Rang 1 | 3 D20             | 60                  |
-| Rang 1          | 4 D20             | 80                  |
-| Sonderrang 1    | 5 D20             | 100                 |
-| Sonderrang      | Individuell       | Individuell         |
+Zu Beginn einer Scene, in der du Fluchkraft verwenden willst, musst du diese zuerst generieren. Würfle dazu:
 
-Um deine Fluchtechnik oder eine Fähigkeit anzuwenden oder um Fluchkraft in ein Objekt fließen zu lassen, verbrauchst du Fluchkraft.
+```
+Fluchkraft = 24 + Erfahrung / (D6 + D4)
+```
+
+Je mehr Fluchkraft du in dein Jujutsu steckst, desto stärker ist die Wirkung. Die meißten Jujutsus haben eine Kraftschwelle, das ist eine bestimmte Menge an Fluchkraft, die du investieren musst, um das Jujtsu überhaupt anwenden zu können. Alles, was du darüber hinaus investierst, steigert die Wirkung.
 
 ### Negative Fluchkraft einsetzen
 
-Jede in diesem Dokument aufgelistete Fluchtechnik und Fähigkeit wird mit negativer Fluchkraft oder ohne Fluchkraft verwendet.
-
 Würfle die Menge an Fluchkraft, die du aufbringst, um sie einzusetzen. Nach jedem Wurf entscheidest du, ob du weiter würfelst (mehr Fluchkraft aufbringst) oder nicht.
 
-Du entscheidest selbst, welchen Würfel du verwendest.
-
-| Rang            | Maximale Würfe | Maximale Würfelwechsel |
-| --------------- | -------------- | ---------------------- |
-| Rang 4          | 1              | 0                      |
-| Rang 3          | 2              | 0                      |
-| Zwischen-Rang 2 | 3              | 1                      |
-| Rang 2          | 4              | 1                      |
-| Zwischen-Rang 1 | 5              | 2                      |
-| Rang 1          | 6              | 2                      |
-| Sonderrang 1    | 8              | 3                      |
-| Sonderrang      | 10             | 5                      |
+Du entscheidest selbst, welchen Würfel du verwendest. Du darfst aber nur einmal den Würfel wechseln.
 
 Wenn du die gewürfelte Menge an Fluchkraft nicht aufbringen kannst, verwendest du deine gesamte Fluchkraft, beim Ziel kommt aber nur die hälfte davon an.
 
@@ -321,9 +365,9 @@ Subtrahiere die aufgebrachte Menge an Fluchkraft von dem was dir aktuell zur Ver
 
 ### Umkehrtechnik, Positive Fluchkraft einsetzen
 
-Du musst in einer Technik `500 Erfahrung` haben, um sie als Umkehrtechnik anwenden zu können.
+Du musst in einem Jujutsu `500 Erfahrung` haben, um es als Umkehrtechnik anwenden zu können.
 
-Eine Umkehrtechnik kann mit jeder Fluchtechnik oder Fähigkeit genutzt werden, die du beherschst. Damit kannst du eine gegenteilige Wirkung erzielen wie normalerweise.
+Eine Umkehrtechnik kann mit jedem Jujutsu genutzt werden, das du beherschst. Damit kannst du eine gegenteilige Wirkung erzielen wie normalerweise.
 
 Um eine Umkehrtechnik anzuwenden, benötigst du die doppelte Menge an Fluchkraft, die du für die normale Anwendung benötigst. Du kombinierst nämlich zwei negative Fluchkräfte miteinander.
 
@@ -331,13 +375,15 @@ Würfle zweimal für [negative Fluchkraft](#negative-fluchkraft-einsetzen). Die 
 
 Wenn du also `56` und `42` würfelst, verbrauchst du `98` (`56 + 42`). Beim Ziel kommt dann `28` an (`42 - |56 - 42|`).
 
-Erkläre plausibel wie sich deine Technik mit positiver Fluchkraft verhält.
+Ist dieses Jujutsu noch nicht als Umkehrtechnik definiert worden, erkläre plausibel wie sich die positive Fluchkraft darauf auswirkt.
 
 ### Hollow
 
-Du musst in einer Technik mindestens `5000 Erfahrung` haben, um sie als Hollow anwenden zu können.
+Du musst in einem Jujutsu mindestens `5000 Erfahrung` haben, um es als Hollow anwenden zu können.
 
 Du kannst negativ und positiv kombinieren, um eine Hollow-Technik anzuwenden.
+
+<div class="gif" style="--screen: url(img/Satoru_Gojo_activating_Red_and_Blue.webp);--print:url(img/Satoru_Gojo_activating_Red_and_Blue_Manga.webp)"></div>
 
 Du würfelst insgesamt drei Techniken. Zum Beispiel:
 
@@ -353,17 +399,17 @@ Entscheide (logisch schlüssig), wie sich die beiden Fluchkraftarten aufeinander
 
 ### Sphären-Entfaltung
 
-Die Domänenerweiterung ist eine fortgeschrittene Barrieretechnik, welche die innere Sphäre des Anwenders manifestiert und das Ziel mit Hilfe einer Barrierewand in ihr gefangen hält, um einen separaten Raum zu schaffen. Im Inneren trifft der eigentümer der Sphäre immer.
+Die Sphären-Entfaltung ist eine fortgeschrittene Barrieretechnik, welche die innere Sphäre des Anwenders manifestiert und das Ziel mit Hilfe einer Barrierewand in ihr gefangen hält, um einen separaten Raum zu schaffen. Im Inneren trifft der Eigentümer der Sphäre immer.
 
 Eine Sphäre kann durch eine stärkere zurückgedrängt werden. Von innen ist sie unzerstörbar. Von außen kann man mit etwas Kraftaufwand ein Loch in die Barriere schlagen.
 
 Teleportation aus einer Sphäre heraus ist nur dem Eigentümer möglich, dabei kann die Sphäre allerdings nicht mehr aufrecht erhalten werden.
 
-Jede Sphären-Entfaltung ist ab einer Erfahrung von `5000` für die Fluchtechnik möglich.
+Jede Sphären-Entfaltung ist ab einer Erfahrung von `5000` für die [Fluchtechnik](#fluchtechniken) möglich.
 
 ## Trefferpunkte
 
-Ein Spieler startet mit `6 D6` Trefferpunkten.
+Ein Spieler startet mit `6 D12` Trefferpunkten.
 
 Einmal ausgewürfelt, können diese nur durch sonder-Events oder Training verändert werden.
 
@@ -381,13 +427,11 @@ Wenn ein Mitstreiter getroffen würde, kannst du darauf reagieren. Du kannst dan
 
 ### Sonderaktionen
 
-Du kannst deine Aktion dazu nutzen um eine Sonderaktion durchzuführen, anstatt deine Fluchtechnik oder eine Fähigkeit anzuwenden.
+Du kannst deine Aktion dazu nutzen um eine Sonderaktion durchzuführen, anstatt eines Jujutsus.
 
 #### Fluchkraft generieren
 
-Würfle einen D100 und multipliziere das Ergebnis mit einem 100stel deiner Fluchtechnik-Erfahrung. Das Ergebnis ist die Menge an Fluchkraft, die du generierst.
-
-Du kannst auch einen D20 würfeln und das Ergebnis mit einem 20stel deiner Fluchtechnik-Erfahrung multiplizieren. 100 ist aber einfacher zu rechnen.
+Würfle wie zu Beginn, gezeigt im Kapitel [Fluchkraft](#fluchkraft).
 
 #### Beobachten
 
@@ -395,10 +439,10 @@ Beobachte eine Kratur um Informationen über ihre Technik zu erhalten.
 
 ## Training
 
-Beim Training kannst du dich verbessern. Erhöhe deine Erfahrung in deiner Fluchtechnik oder einer Fähigkeit um einen D6.
+Beim Training kannst du dich verbessern. Erhöhe deine Erfahrung in deiner Fluchtechnik oder einer Fähigkeit um einen `D6`.
 
-Du kannst auch deinen Körper trainieren. Erhöhe deine Trefferpunkte um einen D6.
+Du kannst auch deinen Körper trainieren. Erhöhe deine Trefferpunkte um einen `D6`.
 
-Wenn du mit einem Lehrer oder ranghöheren trainierst, erhöht dieser dein Trainingsergebnis einen D4.
+Wenn du mit einem Lehrer oder ranghöheren trainierst, erhöht dieser dein Trainingsergebnis einen `D4`.
 
 <link href="style.css" rel="stylesheet" />

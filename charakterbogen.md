@@ -8,9 +8,10 @@ Drücke `Strg`+ `P` zum drucken.
     <label>Klan <input type="text" /></label>
     <label>Fluchtechnik <input type="text" /></label>
     <label>Erfahrung <input type="text" /></label>
+    <label>Aktuelle Fluchkraft <input type="text" /></label>
+    <label>Maximale Trefferpunkte <input type="text" /></label>
+    <label>Aktuelle Trefferpunkte <input type="text" /></label>
     <label>Rang <input type="text" /></label>
-    <label>Fluchkraft <input type="text" /></label>
-    <label>Trefferpunkte <input type="text" /></label>
   </div>
   <div>
     <label>Hintergrund</label>
