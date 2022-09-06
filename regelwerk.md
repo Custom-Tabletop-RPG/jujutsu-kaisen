@@ -53,6 +53,16 @@ Tags: `Gojo`, `Gosanke`
 
 Die Gojo-Familie stammt von Michizane Sugawara ab, einem legendären Jujuzisten aus der Heian-Ära, der nach seinem Tod einer der drei großen Rachegeister Japans wurde. Ihre primäre geerbte Technik ist die Unendlichkeit zusammen mit den Six Eyes, dem mächtigsten Jujutsu der Geschichte.
 
+#### Six Eyes
+
+Tags: `Six Eyes`
+
+Die Six Eyes sind ein sehr seltenes Augen-Jujutsu, welches innerhalb der Gojo-Familie vererbt wird. Es verleiht dem Anwender eine außergewöhnliche Wahrnehmung und die Fähigkeit, die [Grenzenlos](#grenzenlos) Fluchtechnik in vollem Umfang zu nutzen. Satoru Gojo ist der erste Jujuzist, der in den letzten hundert Jahren sowohl mit [Grenzenlos](#grenzenlos) als auch mit den Six Eyes geboren wurde.
+
+Zwar kann jedes Mitglied der Gojo-Familie das [Grenzenlos](#grenzenlos) erben, aber nur wer auch die Six Eyes besitzt, kann die Kraft der Technik wirklich beherrschen.
+
+Mit den Six Eyes reduziert sich die Menge an benötigter Fluchkraft jeder Technik auf `1`.
+
 ### Inumaki
 
 Tags: `Inumaki`
