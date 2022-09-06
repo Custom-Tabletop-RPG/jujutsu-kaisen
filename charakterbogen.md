@@ -30,40 +30,56 @@ Drücke `Strg`+ `P` zum drucken.
     <input type="text" />
   </div>
 </div>
-<br />
+
 <div class="jujutsu">
   <h2>Fähigkeiten</h2>
   <div>
     <label>Name <input type="text" /></label>
     <label>Erfahrung <input type="text" /></label>
+    <label>Effekt <input type="text" /></label>
+    <label style="width:100%">Beschreibung <textarea style="width:100%;resize:none;height:8em"></textarea></label>
   </div>
   <div>
     <label>Name <input type="text" /></label>
     <label>Erfahrung <input type="text" /></label>
+    <label>Effekt <input type="text" /></label>
+    <label style="width:100%">Beschreibung <textarea style="width:100%;resize:none;height:8em"></textarea></label>
   </div>
   <div>
     <label>Name <input type="text" /></label>
     <label>Erfahrung <input type="text" /></label>
+    <label>Effekt <input type="text" /></label>
+    <label style="width:100%">Beschreibung <textarea style="width:100%;resize:none;height:8em"></textarea></label>
   </div>
   <div>
     <label>Name <input type="text" /></label>
     <label>Erfahrung <input type="text" /></label>
+    <label>Effekt <input type="text" /></label>
+    <label style="width:100%">Beschreibung <textarea style="width:100%;resize:none;height:8em"></textarea></label>
   </div>
   <div>
     <label>Name <input type="text" /></label>
     <label>Erfahrung <input type="text" /></label>
+    <label>Effekt <input type="text" /></label>
+    <label style="width:100%">Beschreibung <textarea style="width:100%;resize:none;height:8em"></textarea></label>
   </div>
   <div>
     <label>Name <input type="text" /></label>
     <label>Erfahrung <input type="text" /></label>
+    <label>Effekt <input type="text" /></label>
+    <label style="width:100%">Beschreibung <textarea style="width:100%;resize:none;height:8em"></textarea></label>
   </div>
   <div>
     <label>Name <input type="text" /></label>
     <label>Erfahrung <input type="text" /></label>
+    <label>Effekt <input type="text" /></label>
+    <label style="width:100%">Beschreibung <textarea style="width:100%;resize:none;height:8em"></textarea></label>
   </div>
   <div>
     <label>Name <input type="text" /></label>
     <label>Erfahrung <input type="text" /></label>
+    <label>Effekt <input type="text" /></label>
+    <label style="width:100%">Beschreibung <textarea style="width:100%;resize:none;height:8em"></textarea></label>
   </div>
 </div>
 
@@ -71,11 +87,6 @@ Drücke `Strg`+ `P` zum drucken.
   @media print {
     .character-sheet {
       max-height: 100vh !important;
-    }
-
-    br {
-      page-break-before: always;
-      height: 0;
     }
 
     .markdown-body > p,
@@ -115,9 +126,14 @@ Drücke `Strg`+ `P` zum drucken.
   }
 
   .jujutsu {
+    page-break-inside: avoid;
     display: flex;
     flex-direction: column;
     gap: 0.5rem;
     margin: 0 auto;
+  }
+
+  h1>a, h2>a, h3>a, h4>a, h5>a, h6>a {
+    display: none;
   }
 </style>
