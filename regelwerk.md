@@ -1,5 +1,7 @@
 # Regelwerk
 
+<img class="small-image right" src="img/Yuta_volunteers_to_enter_a_colony_first.webp" style="shape-outside:url(img/Yuta_volunteers_to_enter_a_colony_first.webp)" />
+
 ## Tags
 
 Die Beschreibung deines Charakters basiert auf Tags. Widersprüchliche Tags können nicht kombiniert werden. Diese Tags beeinflussen größtenteils das Rollenspiel. Wenige Tags beeinflussen Spielmechaniken.

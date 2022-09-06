@@ -1,5 +1,7 @@
 Drücke `Strg`+ `P` zum drucken.
 
+<img src="img/logo.png" style="width:100%;height:10vmin;object-fit:contain;" />
+
 <div class="character-sheet">
   <div>
     <label>Name <input type="text" /></label>
@@ -109,7 +111,7 @@ Drücke `Strg`+ `P` zum drucken.
     margin: 0 auto;
   }
 
-  h1>a, h2>a, h3>a, h4>a, h5>a, h6>a {
+  h1, h2>a, h3>a, h4>a, h5>a, h6>a {
     display: none;
   }
 </style>
