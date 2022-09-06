@@ -350,4 +350,30 @@ Fällt ein Spieler auf den Negativwert seiner eigenen Trefferpunkte, stirbt er.
 
 ## Aktionen
 
+Zu Beginn einers Kampfes würfelt jeder Spieler seine Initiative. Der Spieler mit der höchsten Initiative beginnt, der Rest volgt absteigent. Bei gleichem Ergebmis folgt ein Stechen.
+
+Wenn ein Mitstreiter getroffen würde, kannst du darauf reagieren. Du kannst dann eine Aktion vorziehen, die du normalerweise erst in der nächsten Runde machen würdest. Deine Aktion muss allerdings dazu dienen den Angriff abzuwehren, zu verhindern oder ähnliches.
+
+### Sonderaktionen
+
+Du kannst deine Aktion dazu nutzen um eine Sonderaktion durchzuführen, anstatt deine Fluchtechnik oder eine Fähigkeit anzuwenden.
+
+#### Fluchkraft generieren
+
+Würfle einen D100 und multipliziere das Ergebnis mit einem 100stel deiner Fluchtechnik-Erfahrung. Das Ergebnis ist die Menge an Fluchkraft, die du generierst.
+
+Du kannst auch einen D20 würfeln und das Ergebnis mit einem 20stel deiner Fluchtechnik-Erfahrung multiplizieren. 100 ist aber einfacher zu rechnen.
+
+#### Beobachten
+
+Beobachte eine Kratur um Informationen über ihre Technik zu erhalten.
+
+## Training
+
+Beim Training kannst du dich verbessern. Erhöhe deine Erfahrung in deiner Fluchtechnik oder einer Fähigkeit um einen D12.
+
+Du kannst auch deinen Körper trainieren. Erhöhe deine Trefferpunkte um einen D6.
+
+Wenn du mit einem Lehrer oder ranghöheren trainierst, kannst du deinen Erfolg verdoppeln.
+
 <link href="style.css" rel="stylesheet" />
