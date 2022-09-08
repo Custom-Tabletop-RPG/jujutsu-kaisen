@@ -24,6 +24,7 @@ Wärend der Kampagne erhält dein Charakter Erfahrung. Für dieses Regelwerk ist
 1. Passe deinen **Hintergrund** an.
    Gebunden an das, was dein Klan dir vorgibt, kannst du deinen Hintergrund frei wählen.
 1. Passe deine **[Uniform](#uniform)** an
+1. Wähle eine **[Fluchtechnik](#fluchtechniken)**.
 
 ## Uniform
 
