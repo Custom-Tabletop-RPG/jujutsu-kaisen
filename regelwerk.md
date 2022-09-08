@@ -1,6 +1,6 @@
 # Regelwerk
 
-<img class="small-image right" src="img/Yuta_volunteers_to_enter_a_colony_first.webp" style="shape-outside:url(img/Yuta_volunteers_to_enter_a_colony_first.webp)" />
+<img class="small-image right no-print" src="img/Yuta_volunteers_to_enter_a_colony_first.webp" style="shape-outside:url(img/Yuta_volunteers_to_enter_a_colony_first.webp)" />
 
 * TOC
 {:toc}
