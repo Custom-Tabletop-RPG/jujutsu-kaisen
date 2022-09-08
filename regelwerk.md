@@ -445,4 +445,46 @@ Du kannst auch deinen Körper trainieren. Erhöhe deine Trefferpunkte um einen `
 
 Wenn du mit einem Lehrer oder ranghöheren trainierst, erhöht dieser dein Trainingsergebnis einen `D4`.
 
+## Effekte
+
+Ein Jujutsu kann dem Ziel Effekte hinzufügen. Manche Effekte, wie `Brennen`, sind auch auf Gegenstände anwendbar.
+
+### Macht
+
+Ein Effekt hat meißtens eine bestimmte Macht. `Betäuben 3` ist zum Beispiel der `Betäuben` Effekt mit einer Macht von `3`. Generell gilt `1` als sehr schwach und `10` als sehr stark.
+
+### Mehrere Effekte
+
+Wird mehrmals der selbe Effekt auf ein Ziel angewendet, wird der Effekt eventuell stärker. Es gilt der Effekt mit der größten Macht.
+
+### Widerstehen
+
+Wenn du eine [Umkehrtechnik](#umkehrtechnik-positive-fluchkraft-einsetzen) mit einer positiven Fluchkraft des zwanzigfachen der Macht des Effektes wirkst, kannst du den Effekt abwehren, bevor er wirkt. Das gilt nicht als Aktion.
+
+### Befreien
+
+Um dich von einem Effekt zu befreien, musst du einen Wurf für eine [Umkehrtechnik](#umkehrtechnik-positive-fluchkraft-einsetzen) auf das zehnfache der Macht des Effektes werfen. Wenn du erfolgreich bist, bist du von dem Effekt befreit.
+
+Für `Betäuben 3` müsstest du also eine [Umkehrtechnik](#umkehrtechnik-positive-fluchkraft-einsetzen) mit einer positiven Fluchkraft von `30` oder mehr werfen.
+
+Auch andere können dich befreien, dafür gelten die selben Bedingungen wie für dich selbst.
+
+Einige Jujutsus können Effekte aufgrund von Logik befreien. Zum Beispiel kann Wasser den `Brennen` Effekt befreien.
+
+### Betäuben
+
+Deine einzige mögliche Aktion ist der Versuch dich zu befreien.
+
+### Verwirren
+
+Beim Würfeln für das verwenden von Fluchkraft, darfst du nich die Würfel wechseln.
+
+### Auslöschung
+
+Deine Existens wird ausradiert. Du bist tot, ohne Aussicht auf Rettung.
+
+## Brennen
+
+Du erhälst nach jeder Runde Raden in Höhe der Macht des Effektes.
+
 <link href="style.css" rel="stylesheet" />
