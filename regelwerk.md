@@ -156,7 +156,7 @@ Voraussetzungen: `Gojo`
 
 Die Unendlichkeit ist die Konvergenz einer unermesslichen Reihe, alles, was sich der Unendlichkeit nähert, verlangsamt sich und erreicht den Anwender nie. Das liegt daran, dass die Technik den endlichen Raum zwischen den beiden Subjekten unendlich oft teilt.
 
-Kostet immer 4 Fluchkraft und ist nicht steigerbar (Steigerung sntspricht dem Jujutsu Blau).
+Kostet immer 32 Fluchkraft und ist nicht steigerbar (Steigerung sntspricht dem Jujutsu Blau).
 
 #### Blau (蒼, Ao)
 
@@ -169,12 +169,14 @@ Blau verstärkt Unendlichkeit und bringt die Unmöglichkeit des negativen Raumes
 Bei jedem, der direkt mit Blau getroffen wird, implodiert der Körper und die Gliedmaßen werden sofort zerquetscht. Der Anwender kann diesen Effekt nutzen, um sich selbst mit hoher Geschwindigkeit zu bewegen oder massive Mengen verfluchter Energie aufbringen, um ein großes Anziehungsfeld von sich weg zu erzeugen. Stärkere Variationen von Blau können verwendet werden, um sich schneller bewegende Ziele oder große Gebiete anzuvisieren.
 
 <table><thead>
-<tr><th>Schwellwert</th><td>24</td></tr>
+<tr><th>Schwellwert</th><td>150</td></tr>
 </thead></table>
 
 #### Umkehrtechnik Rot (赫, Aka)
 
 <img class="small-image right" src ="img/Cursed_Technique_Reversal_Red.webp" />
+
+Du musst in Unendlichkeit einer Erfahrung von mindestens `50` haben.
 
 Kehrt die Wirkung von Blau um und bringt die Divergenz der Unendlichkeit in die Realität und erzeugt die Kraft des Abstoßens.
 
@@ -183,10 +185,12 @@ Dies wird erreicht, indem positive Fluchkraft in die Kraft von Grenzenlos geleit
 Bedenke, dass der Schaden die hälfte der investierten Fluchkraft beträgt, da es sich um eine Umkehrtechnik handelt.
 
 <table><thead>
-<tr><th>Schwellwert</th><td>32</td></tr>
+<tr><th>Schwellwert</th><td>250</td></tr>
 </thead></table>
 
 #### Hohles Purpur (虚式「茈」, Kyoshiki・Murasaki)
+
+Du musst in Unendlichkeit einer Erfahrung von mindestens `100` haben.
 
 <div class="gif" style="--screen: url(img/Hollow_Purple.webp);--print:url(img/Hollow_Technique_Purple.webp)"></div>
 
@@ -195,7 +199,7 @@ Purpur ist die Verschmelzung von Rot und Blau, eine geheime Fähigkeit, die nur 
 Kamehameha ist ein Witz dagegen 😉.
 
 <table><thead>
-<tr><th>Schwellwert</th><td>75</td></tr>
+<tr><th>Schwellwert</th><td>500</td></tr>
 <tr><th>Effekt</th><td>Auslöschung</td></tr>
 </thead></table>
 
